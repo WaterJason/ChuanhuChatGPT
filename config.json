@@ -20,9 +20,9 @@
     // 是否多个API Key轮换使用
     "multi_api_key": false,
     "api_key_list": [
-        "sk-xxxxxxxxxxxxxxxxxxxxxxxx1",
-        "sk-xxxxxxxxxxxxxxxxxxxxxxxx2",
-        "sk-xxxxxxxxxxxxxxxxxxxxxxxx3"
+        "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",
+        "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",
+        "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"
     ],
     // 如果使用自定义端口、自定义ip，请取消注释并替换对应内容
     // "server_name": "0.0.0.0",
